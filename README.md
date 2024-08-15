@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - ChatMessengerBot </h1>
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v16.20.0">
@@ -74,7 +74,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/13065994/Ae.git
-cd inrl-bot-md
+cd Ae
 npm i
 npm start
 ```
