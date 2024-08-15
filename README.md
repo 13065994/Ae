@@ -59,6 +59,7 @@ Tutorial has been uploaded on YouTube
 ## 🌐 **Termux**
 - to host in termux guide
 - copy this
+ ```bash
 termux-setup-storage
 apt update
 apt upgrade
@@ -76,6 +77,8 @@ git clone https://github.com/13065994/Ae.git
 cd inrl-bot-md
 npm i
 npm start
+```
+- and paste on termux
 
 ## 💭 **Support**
 If you have major coding issues with this bot, please join and ask for help.
