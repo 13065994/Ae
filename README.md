@@ -17,6 +17,7 @@
 - [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
 - [🆙 **How to Update**](#-how-to-update)
 - [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
+- [🌐 **How to host on Termux**](#-Termux)
 - [💭 **Support**](#-support)
 - [📚 **Support Languages in source code**](#-support-languages-in-source-code)
 - [📌 **Common Problems**](#-common-problems)
@@ -54,6 +55,27 @@ Tutorial has been uploaded on YouTube
 
 ## 🛠️ **How to create new commands**
 - See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/DOCS.md)
+
+## 🌐 **Termux**
+- to host in termux guide
+- copy this
+termux-setup-storage
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/13065994/Ae.git
+cd inrl-bot-md
+npm i
+npm start
 
 ## 💭 **Support**
 If you have major coding issues with this bot, please join and ask for help.
